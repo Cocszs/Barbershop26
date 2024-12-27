@@ -1,0 +1,103 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #000;
+    color: #fff;
+    background-image: url(https://sun9-48.userapi.com/impg/BOGOkx1zup1N5FH4Iz9KZgUGgT12ssgw3HPMpA/2kgvKrxArtA.jpg?size=2560x1920&quality=96&sign=19190ce7a91da34adbac1d3f2fb17710&type=album);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+header {
+    background-color: rgba(17, 17, 17, 0.8);
+    color: #fff;
+    text-align: center;
+    padding: 30px;
+}
+
+nav {
+    margin: 20px 0;
+}
+
+nav a {
+    color: #fff;
+    margin: 0 10px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+section {
+    padding: 80px;
+    background-color: rgba(17, 17, 17, 0.8);
+    margin: 10px 0;
+    border-radius: 5px;
+}
+
+.services {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+
+}
+
+.service1 {
+    width: 200px;
+    margin: 30px;
+    padding: 50px;
+    border: 1px solid #fff;
+    border-radius: 30px;
+    background-color: rgba(34, 34, 34, 0.9);
+    background-image: url(https://sun9-38.userapi.com/impg/t9NvSPQB5PQI6tT_pkjsvGH6F5bvYJaSnzMsgQ/FMmfvKhA5jI.jpg?size=300x230&quality=95&sign=5561f970c18f9dcd0b06a1d4bb9c7356&type=album);
+}
+
+.service2 {
+    width: 200px;
+    margin: 30px;
+    padding: 50px;
+    border: 1px solid #fff;
+    border-radius: 30px;
+    background-color: rgba(34, 34, 34, 0.9);
+    background-image: url(https://sun9-16.userapi.com/impg/6J_Ae9wOYvlat8lBvw8anYViwCXyblaFCWqrAg/KjLpQMFmlF4.jpg?size=300x230&quality=95&sign=9637b63fad91460eb9fc47a1eeb127d7&type=album);
+
+}
+
+.service3 {
+    width: 200px;
+    margin: 30px;
+    padding: 50px;
+    border: 1px solid #fff;
+    border-radius: 30px;
+    background-color: rgba(34, 34, 34, 0.9);
+    background-image: url(https://sun9-38.userapi.com/impg/t9NvSPQB5PQI6tT_pkjsvGH6F5bvYJaSnzMsgQ/FMmfvKhA5jI.jpg?size=300x230&quality=95&sign=5561f970c18f9dcd0b06a1d4bb9c7356&type=album);
+}
+
+footer {
+    background-color: rgba(17, 17, 17, 0.8);
+    color: #fff;
+    text-align: center;
+    padding: 3px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+img {
+    filter: grayscale(100%);
+    margin: 100px;
+    border: 1px solid #fff;
+    border-radius: 30px;
+}
+.about{
+    width: 200px;
+    margin: 30px;
+    padding: 50px;
+    border: 1px solid #fff;
+    border-radius: 30px;
+    background-color: rgba(34, 34, 34, 0.9);
+    background-image: url(https://sun9-38.userapi.com/impg/t9NvSPQB5PQI6tT_pkjsvGH6F5bvYJaSnzMsgQ/FMmfvKhA5jI.jpg?size=300x230&quality=95&sign=5561f970c18f9dcd0b06a1d4bb9c7356&type=album);
+}
